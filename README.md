@@ -95,7 +95,7 @@ README.md                     # This file
 ---
 
 ## 📜 License
-[MIT License](LICENSE) © 2025 Your Name
+ BSU © 2025 LI Bao
 
 ---
 
