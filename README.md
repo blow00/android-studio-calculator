@@ -66,6 +66,10 @@ cd MyApplication
 | Main Screen | Tests Passed |
 |-------------|--------------|
 | ![Main](docs/main.png) | ![Test](docs/test.png) |
+<img width="865" height="460" alt="image" src="https://github.com/user-attachments/assets/b6344791-29a5-45fc-9b9a-2a33b45bdf19" />
+<img width="785" height="417" alt="image" src="https://github.com/user-attachments/assets/b05ca0ba-8d1e-476f-89d4-fb7b3b39f4d7" />
+
+
 
 > Put images in `docs/` folder, GitHub will display them.
 
